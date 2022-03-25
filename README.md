@@ -18,7 +18,9 @@ I am 22 years old, I want to learn. I've been using a computer since I was 6 yea
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ouz.spy#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ouz.spy#gh-dark-mode-only)
 
+### Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reena-dll)
 
 <!--
 **Reena-dll/Reena-dll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
