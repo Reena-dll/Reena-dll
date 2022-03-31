@@ -21,8 +21,8 @@ I am 22 years old, I want to learn. I've been using a computer since I was 6 yea
 ### Most Used Languages
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=asdasdl&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdasd&layout=compact&theme=dark" width="500" >
+<img src="https://github-readme-stats.vercel.app/api?username=Reena-dll&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reena-dll&layout=compact&theme=dark" width="500" >
 
 <!--
 **Reena-dll/Reena-dll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
