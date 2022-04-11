@@ -2,7 +2,6 @@
 
 I am 22 years old, I want to learn. I've been using a computer since I was 6 years old. I love programming, I like to add new information to myself.I will share all the projects I have developed.
 
-
 ## As someone living in Turkey
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -18,8 +17,6 @@ I am 22 years old, I want to learn. I've been using a computer since I was 6 yea
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ouz.spy#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ouz.spy#gh-dark-mode-only)
 
-
-
 ### 💼 Languages and Tools
 
 <p align="left">
@@ -31,51 +28,9 @@ I am 22 years old, I want to learn. I've been using a computer since I was 6 yea
   <code><img title="JSON" height="50" src="https://github.com/Reena-dll/Reena-dll/blob/main/img/json.svg"></code>
   <code><img title="GitHub" height="50" src="https://github.com/Reena-dll/Reena-dll/blob/main/img/github.svg"></code>
   <code><img title="SQL" height="50" src="https://github.com/Reena-dll/Reena-dll/blob/main/img/sql.png"></code>
-
-  
-    
-  
-
 </p>
-
 
 ### Most Used Languages
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=Reena-dll&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reena-dll&layout=compact&theme=dark" width="500" >
-
-<!--
-**Reena-dll/Reena-dll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-pelinncee/pelinncee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
