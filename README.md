@@ -30,7 +30,8 @@ I am 22 years old, I want to learn. I've been using a computer since I was 6 yea
   <code><img title="Microsoft Visual Studio" height="50" src="https://github.com/Reena-dll/Reena-dll/blob/main/img/visualstudio.png"></code>  
   <code><img title="JSON" height="50" src="https://github.com/Reena-dll/Reena-dll/blob/main/img/json.svg"></code>
   <code><img title="GitHub" height="50" src="https://github.com/Reena-dll/Reena-dll/blob/main/img/github.svg"></code>
-  <code><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/sql-logo.png" height="40" style="max-width: 100%;"></code>
+  <code><img title="SQL" height="50" src="https://github.com/Reena-dll/Reena-dll/blob/main/img/sql.png"></code>
+
   
     
   
