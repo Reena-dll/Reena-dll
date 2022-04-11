@@ -18,6 +18,25 @@ I am 22 years old, I want to learn. I've been using a computer since I was 6 yea
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ouz.spy#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ouz.spy#gh-dark-mode-only)
 
+
+
+### 💼 Languages and Tools
+
+<p align="left">
+  <code><img title="C#" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/cSharp.svg"></code>
+  <code><img title="Git" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/visualstudio.png"></code>  
+  <code><img title="JSON" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/json.svg"></code>
+  <code><img title="GitHub" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/github.svg"></code>
+  <code><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/sql-logo.png" height="40" style="max-width: 100%;"></code>
+  <code><img src="https://www.logolynx.com/images/logolynx/40/4070ab2cfaaaa20f057a719f1805d853.png" width="30" height="50" style="max-width: 100%;"></code>
+    
+  
+
+</p>
+
+
 ### Most Used Languages
 
 
@@ -38,3 +57,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pelinhangisi)](https://github.com/pelinhangisi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelinhangisi&layout=compact)](https://github.com/pelinhangisi)
+
+
+
+
+
+
+
+
+
+
+<!---
+pelinncee/pelinncee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
