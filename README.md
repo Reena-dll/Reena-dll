@@ -7,6 +7,7 @@ I am 22 years old, I want to learn. I've been using a computer since I was 6 yea
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Find a new job
 - ⚡ Fun fact: I love to play games and read books
+![](https://komarev.com/ghpvc/?username=Reena-dll)
 
 ### Connect with me:
 
