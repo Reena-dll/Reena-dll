@@ -1,6 +1,6 @@
 #  Hi There, I'm Oğuz 
 
-I am 22 years old, I want to learn. I've been using a computer since I was 6 years old. I love programming, I like to add new information to myself.I will share all the projects I have developed.
+I am 22 years old. I've been using a computer since I was 6 years old. I love programming, I like to add new information to myself.I will share all the projects I have developed.
 
 ## As someone living in Turkey
 - 🌱 I’m currently learning everything 🤣
