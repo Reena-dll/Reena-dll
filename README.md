@@ -5,7 +5,7 @@ I am 23 years old. I've been using a computer since I was 6 years old. I love pr
 ## As someone living in Turkey
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Find a new job
+- 🥅 2023 Goals: Find a new job
 - ⚡ Fun fact: I love to play games and read books
 
 
